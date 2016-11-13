@@ -95,7 +95,7 @@ Changes in version 1.1.0
 - Minor UI changes.
 - Minor bug fixing.
  
-V1.1 video: http://youtu.be/fxIoDvJHl3Q
+V1.1 video: https://www.youtube.com/watch?v=fxIoDvJHl3Q&feature=youtu.be
 
 Changes in version 1.1.1
 =============================
